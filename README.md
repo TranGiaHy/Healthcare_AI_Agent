@@ -19,3 +19,9 @@ Dự án này xây dựng một hệ thống hỗ trợ quyết định y tế t
    ```bash
    git clone [https://github.com/TranGiaHy/Healthcare_AI_Agent.git](https://github.com/TranGiaHy/Healthcare_AI_Agent.git)
    cd Healthcare_AI_Agent
+
+2. Cài đặt thư viện:
+   pip install -r requirements.txt
+
+3. Khởi chạy ứng dụng:
+   python -m ui.app
