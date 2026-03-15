@@ -25,3 +25,7 @@ Dự án này xây dựng một hệ thống hỗ trợ quyết định y tế t
 
 3. Khởi chạy ứng dụng:
    python -m ui.app
+
+👨‍💻 Tác giả :
+- Trần Gia Hy - Sinh viên năm cuối chuyên ngành Data Science, HUFLIT.
+- Mục tiêu: Phát triển các giải pháp AI ứng dụng trong y tế và đời sống
