@@ -44,6 +44,8 @@ Healthcare_AI_Agent/
 ├── requirements.txt        # Danh sách thư viện cài đặt
 └── README.md
 
+---
+
 ## 🚀 Hướng dẫn cài đặt
 1. Clone repository:
 
@@ -60,12 +62,16 @@ pip install -r requirements.txt
 
 python -m ui.app
 
-Tác giả
+---
+
+## 👤 Tác giả
 Trần Gia Hy - Sinh viên năm cuối chuyên ngành Data Science, HUFLIT.
 
 Mục tiêu: Phát triển các giải pháp AI ứng dụng thực tiễn trong lĩnh vực y tế và đời sống.
 
 Liên hệ: [trangiahy31082004@gmail.com]
+
+---
 
 ## 📜 Disclaimer
 Dự án này được xây dựng cho mục đích học thuật và nghiên cứu. Các chẩn đoán từ AI chỉ mang tính chất tham khảo, không thay thế cho lời khuyên y tế chuyên nghiệp từ bác sĩ.
