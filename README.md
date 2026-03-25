@@ -43,24 +43,31 @@ Healthcare_AI_Agent/
 │   └── app.py              # File chạy chính (Gradio UI)
 ├── requirements.txt        # Danh sách thư viện cài đặt
 └── README.md
+```
 
 ---
 
 ## 🚀 Hướng dẫn cài đặt
 1. Clone repository:
 
+```bash
 git clone [https://github.com/TranGiaHy/Healthcare_AI_Agent.git](https://github.com/TranGiaHy/Healthcare_AI_Agent.git)
 cd Healthcare_AI_Agent
+```
 
 2. Cài đặt môi trường:
 
+```bash
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 3. Khởi chạy ứng dụng:
 
+```bash
 python -m ui.app
+```
 
 ---
 
